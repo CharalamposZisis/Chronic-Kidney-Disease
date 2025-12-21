@@ -5,3 +5,4 @@ ucimlrepo
 seaborn
 matplotlib
 scikit-learn
+ydata-profiling
